@@ -4,7 +4,7 @@
 
 -->
 
-### Hey there 👋🏻 My name is Priya Juneja! 
+### Hey there 👋🏻 My name is Mahak Juneja! 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/priya-juneja-718b5659/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/PriyaJuneja1) ![](https://Visitor-badge.glitch.me/badge?page_id=priyaj-code.profileviews-badge)
 
