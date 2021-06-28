@@ -6,7 +6,7 @@
 
 ### Hey there 👋🏻 My name is Mahak Juneja! 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/m-juneja/)&nbsp; ![](https://Visitor-badge.glitch.me/badge?page_id=priyaj-code.profileviews-badge)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/m-juneja/)&nbsp; ![](https://Visitor-badge.glitch.me/badge?page_id=m-juneja-code.profileviews-badge)
 
 
 MSc Data Science at University of Essex | Data Analyst | Machine Learning Enthusiast | Avid Learner
