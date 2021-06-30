@@ -22,7 +22,6 @@ MSc Data Science at University of Essex | Data Analyst | Machine Learning Enthus
 
 💻 **Code carousel**: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
 
-📄 **Resume**: [Click to view](https://drive.google.com/file/d/1wP0hk-JMURvGQ9k6vY30DFzLBe_PMkPE/view?usp=sharing)
 
 ### Languages and Tools-
 
